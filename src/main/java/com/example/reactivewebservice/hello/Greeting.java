@@ -1,4 +1,4 @@
-package com.example.reactivewebservice.models;
+package com.example.reactivewebservice.hello;
 
 public class Greeting {
     private String message;
